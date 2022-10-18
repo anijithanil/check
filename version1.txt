@@ -7,3 +7,6 @@ navbar completed
 main content working
 
 main content completed
+
+
+footer
